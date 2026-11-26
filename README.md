@@ -12,3 +12,5 @@ python pl/app.py
 ```
 
 ## Diagrama de Clases
+
+![Diagrama de Clases](diagramaumltpoop.png)
